@@ -92,10 +92,11 @@
 > *Robotics project developed with ROS.*
 > `C++` · `ROS`
 
-#### 🧹 Robots Educativos con ESP32 *(próximamente / coming soon)*
-> Serie de robots didácticos de bajo costo para niños: un **trapeador Wi-Fi**, un **robot recolector con telemetría en tiempo real** (ultrasónico + infrarrojo + interfaz web) y un **aspirador**. Todos controlados vía Wi-Fi desde una interfaz web servida por el propio ESP32.
-> *Low-cost educational robots for kids, controlled over Wi-Fi from a web interface served by the ESP32 itself.*
-> `ESP32` · `HTML/CSS/JS` · `L298N` · `HC-SR04` · `FC-51`
+#### 🧹 [Robots de Limpieza Wi-Fi](https://github.com/itxmayuu/robots-limpieza-wifi) — Robótica Educativa
+> Serie de **3 robots didácticos de bajo costo** para estudiantes: un **trapeador**, un **recogedor/barredor con telemetría en tiempo real** (ultrasónico + infrarrojo + interfaz web) y una **aspiradora** (ESP32 + Arduino comunicados por serial, con radar de servo). Todos controlados vía Wi-Fi desde una web servida por el propio ESP32. Incluye documentación completa: materiales, conexiones, guía de armado y teoría.
+> *Three low-cost educational robots controlled over Wi-Fi from a web interface served by the ESP32 itself, with full step-by-step documentation.*
+> `ESP32` · `Arduino` · `C++` · `HTML/CSS/JS` · `L298N` · `HC-SR04` · `FC-51`
+
 
 ---
 
